@@ -2,7 +2,7 @@
 [印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100067.5678.1.3ce53cddlnx70h&raceId=231641)
 
 # 比赛成绩
-初赛45, 复赛30, 共2635只队
+初赛45, 复赛17, 共2635只队
 
 # 解决思路
 1. 还原成真实日期：初赛date mapping区间是2013-01-02到2017-11-28, 复赛date mapping区间是2013-01-01到2017-11-28;
